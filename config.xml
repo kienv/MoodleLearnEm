@@ -5,7 +5,7 @@
         id        = "com.brightcookie.learnemmobile"
         versionCode = "378"
         version   = "1.6">
-    <name>Moodle Mobile LearnEM</name>
+    <name>LearnEM</name>
 
     <description>
         Moodle Mobile LearnEM
